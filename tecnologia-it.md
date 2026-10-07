@@ -7,3 +7,6 @@ Me interesa saber como funciona, y me interesa el hacking etico
 Mi propia empresa de seguridad o alguna herramienta util
 # Por que me interesa
 Me interesa saber como funciona, y me interesa el hacking etico
+
+Idea extra
+Quiero ver un blog sobre lo que aprenda
